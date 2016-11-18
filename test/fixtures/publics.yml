@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_name: MyString
+  nick_name: MyString
+  img_url: MyString
+  sex: 1
+  member_count: 1
+  alias: MyString
+
+two:
+  user_name: MyString
+  nick_name: MyString
+  img_url: MyString
+  sex: 1
+  member_count: 1
+  alias: MyString
